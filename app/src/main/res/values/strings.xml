@@ -4,4 +4,9 @@
     <string name="order">order</string>
     <string name="get_start">Get Start</string>
     <string name="username">username</string>
+    <string name="_000_000_000">$000,000.000</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="_000_000">$000.000</string>
+    <string name="income">Income</string>
+    <string name="outcome">Outcome</string>
 </resources>
