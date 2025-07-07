@@ -9,4 +9,15 @@
     <string name="_000_000">$000.000</string>
     <string name="income">Income</string>
     <string name="outcome">Outcome</string>
+    <string name="send">Send</string>
+    <string name="recive">Recive</string>
+    <string name="convert">Convert</string>
+    <string name="receive">Receive</string>
+    <string name="quick_money_transfer">Quick Money Transfer</string>
+    <string name="see_more">See More</string>
+    <string name="home">Home</string>
+    <string name="chart">Chart</string>
+    <string name="profile">Profile</string>
+    <string name="trade">Trade</string>
+    <string name="market">Market</string>
 </resources>
